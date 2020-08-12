@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "496886379665",
+    "firebase_url": "https://flutterfacebook-931df.firebaseio.com",
+    "project_id": "flutterfacebook-931df",
+    "storage_bucket": "flutterfacebook-931df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496886379665:android:3ce187a4a3f5d9442a3b30",
+        "android_client_info": {
+          "package_name": "com.example.flutter_socialint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496886379665-ke1shqt9e18ujpsa8ebofkjmdptijg7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXVBmK4f1JnhDDThwkXOR2d4Rk9VvthF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496886379665-ke1shqt9e18ujpsa8ebofkjmdptijg7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
